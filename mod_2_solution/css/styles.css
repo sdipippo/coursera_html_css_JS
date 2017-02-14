@@ -12,9 +12,9 @@ h1 {
 
 .box {
 	margin: 20px;
-	float: left;
     background-color: lightgray;
     border: 1px solid black;
+    float: left;
 }
 
 .box-title {
